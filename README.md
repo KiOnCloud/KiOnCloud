@@ -56,10 +56,6 @@ Full-stack web developer with **2+ years of experience** building scalable web a
   <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=KiOnCloud&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KiOnCloud&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</div>
-
 ---
 
 ## 💻 Tech Stack
