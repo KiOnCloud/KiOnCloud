@@ -23,6 +23,7 @@ Full-stack web developer with **2+ years of experience** building scalable web a
 
 ---
 
+<!---
 ## 🚀 Featured Projects
 
 <div align="left">
@@ -46,6 +47,7 @@ Full-stack web developer with **2+ years of experience** building scalable web a
 </div>
 
 ---
+-->
 
 ## 📊 GitHub Statistics
 
