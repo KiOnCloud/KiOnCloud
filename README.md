@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-Full-stack web developer with **2+ years of experience** building scalable web applications and cloud-native solutions. Specialized in **.NET**, **React**, and **AWS cloud architecture**.
+Full-stack web developer with **2+ years of experience** building scalable web applications and cloud-native solutions. Specialized in **.NET**,  **Angular**, **React** and **AWS cloud architecture**.
 
 - 🔭 **Currently**: Full-Stack Web Developer specializing in cloud-based enterprise applications
 - 💼 **Experience**: 2+ years in web development with focus on AWS infrastructure and microservices
