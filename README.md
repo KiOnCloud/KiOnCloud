@@ -13,10 +13,10 @@
 
 ## 👋 About Me
 
-Full-stack web developer with **2+ years of experience** building scalable web applications and cloud-native solutions. Specialized in **.NET**,  **Angular**, **React** and **AWS cloud architecture**.
+Full-stack web developer with **3+ years of experience** building scalable web applications and cloud-native solutions. Specialized in **.NET**,  **Angular**, **React** and **AWS cloud architecture**.
 
 - 🔭 **Currently**: Full-Stack Web Developer specializing in cloud-based enterprise applications
-- 💼 **Experience**: 2+ years in web development with focus on AWS infrastructure and microservices
+- 💼 **Experience**: 3+ years in web development with focus on AWS infrastructure and microservices
 - 🎯 **Focus**: Building intelligent, scalable systems that bridge backend, cloud, and AI/ML
 - 🌱 **Learning**: Advanced Rust for systems programming & production-ready ML deployments
 - ⚡ **Approach**: Coffee-driven development with a passion for clean architecture and optimal performance
@@ -48,15 +48,6 @@ Full-stack web developer with **2+ years of experience** building scalable web a
 
 ---
 -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=KiOnCloud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=KiOnCloud&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
----
 
 ## 💻 Tech Stack
 
